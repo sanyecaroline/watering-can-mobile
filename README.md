@@ -1,6 +1,6 @@
-# licence_manager
+# watering_can
 
-License manager for Watering can
+Watering Can
 
 ## Getting Started
 

@@ -1,4 +1,4 @@
-package com.gsw.licensemanager.licence_manager
+package com.wateringcan
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
